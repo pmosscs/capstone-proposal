@@ -1,0 +1,10 @@
+1. THE PROJECT
+    A real estate investment calculator. 
+        "sick of paying $300 a year for a calculator? Tired of trying to figure out how to use excell? THEN DO I HAVE A CALCULATOR FOR YOU"
+
+2. THE FEATURES 
+    A user types in the numbers on a real estate deal they are looking to invest in (long term rental only). When submitted, they are given calculations of those numbers to see if the investment is good: return on initial investment, monthly cash flow, cap rate, vacancy/repair savings after certain amount of time, etc. 
+    The info is then saved in "your deals" where they can see all the houses they ran numbers on, and also delete those deals. 
+
+3. THE WIREFRAMS
+    In the wireframes folder
