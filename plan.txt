@@ -1,10 +1,11 @@
 1. THE PROJECT
-    A real estate investment calculator. 
-        "sick of paying $300 a year for a calculator? Tired of trying to figure out how to use excell? THEN DO I HAVE A CALCULATOR FOR YOU"
+    A "driving for dollars" website. 
 
 2. THE FEATURES 
-    A user types in the numbers on a real estate deal they are looking to invest in (long term rental only). When submitted, they are given calculations of those numbers to see if the investment is good: return on initial investment, monthly cash flow, cap rate, vacancy/repair savings after certain amount of time, etc. 
-    The info is then saved in "your deals" where they can see all the houses they ran numbers on, and also delete those deals. 
+    This website allows you to add potential investment houses you find in 
+    your town to a list. You can manage your list of houses and mark them as 
+    contacted, or upadate their status like: "seller uninterested", "waiting 
+    on inspection", or "offer extented/accepted". - potential feature: exporting a list of all addresses and names for a letter campaign.
 
 3. THE WIREFRAMS
     In the wireframes folder
